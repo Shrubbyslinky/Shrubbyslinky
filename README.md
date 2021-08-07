@@ -7,7 +7,6 @@ I’m interested in:
   - Web Development
   - Programming in Python
   - The Linux Terminal
-  - Probably Some Other Stuff..
   
 I’m currently learning (in order of priority):
   
