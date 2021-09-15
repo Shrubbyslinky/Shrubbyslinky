@@ -1,6 +1,4 @@
 Hi, I’m @Shrubbyslinky
- 
- (This statement is accurate)
   
 I’m interested in:
  
@@ -16,11 +14,11 @@ I’m currently learning (in order of priority):
   
 I’m looking to collaborate on:
 
-  - Nothing, yet.
+  - Nothing as of now.
   
 How to reach me:
 
-  - Don't know. You probably don't want to, anyway.
+  - I simply cannot be reached. It is impossible.
 
 <!---
 Shrubbyslinky/Shrubbyslinky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
